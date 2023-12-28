@@ -7,3 +7,7 @@ my second file for git
 new line on new file
 
 my thrid commit
+
+new line
+
+
