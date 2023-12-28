@@ -2,3 +2,8 @@ my file for git
 
 
 my second file for git
+
+
+new line on new file
+
+my thrid commit
